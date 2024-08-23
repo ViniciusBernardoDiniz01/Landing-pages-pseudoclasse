@@ -18,7 +18,8 @@
 }
 
 input {
-    border-radius: 5px;
+    border-radius: 3px;
+    border: hidden;
 }
 input:focus{
     background-color: var(--azulclaro);
@@ -31,7 +32,8 @@ input:focus{
 }
 
 textarea {
-    border-radius: 5px;
+    border-radius: 3px;
+    border: hidden;
 }
 textarea:focus{
     background-color: var(--azulclaro);
